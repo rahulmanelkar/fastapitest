@@ -6,3 +6,5 @@ app = FastAPI()
 @app.get("/")
 def root():
     return {"message":"Testing API"}
+
+@app.get("/{id}")
