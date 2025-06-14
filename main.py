@@ -8,5 +8,3 @@ def root():
     return {"message":"Testing API"}
 
 @app.get("/{id}")
-def root_id():
-    return {"message":f"this is {id}"}
