@@ -1,7 +1,7 @@
 from fastapi import FastAPI, Default
 from pydantic import BaseModel
 import numpy as np
-import matplotlib
+import matplotlib as mp
 
 
 app = FastAPI()
