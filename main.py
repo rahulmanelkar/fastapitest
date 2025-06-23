@@ -12,7 +12,7 @@ def root():
 
 
 def main():
-    pass
+    print()
 
 if __name__=='__main__':
     "API"
