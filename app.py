@@ -2,7 +2,7 @@ import os
 import fastapi
 
 def main():
-    pass
+    print("ah")
 
 if __name__=='__main__':
     main()
