@@ -1,4 +1,5 @@
 import os
+import fastapi
 
 def main():
     pass
