@@ -1,5 +1,6 @@
 import os
 import fastapi
+import numpy
 
 def main():
     print("ah")
